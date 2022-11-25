@@ -1,0 +1,49 @@
+.main-header {
+  text-align: center;
+  background-color: rgb(50, 134, 106);
+  color: white;
+  font-weight: 700;
+  font-size: 80px;
+  font-family: futura, Helvetica;
+  padding-bottom: 10px;
+  
+}
+
+#related-links {
+  background-color: white;
+  color: white;
+  font-weight: 700;
+  font-family: futura, sans-serif;
+}
+
+#related-links li a {
+  color: green;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+.cheese {
+  width: 600px;
+  height: auto;
+}
+
+.burnt {
+  width: 1000;
+  height: auto;
+}
+
+html {background-color: #5CDB95;}
